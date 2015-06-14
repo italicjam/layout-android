@@ -61,6 +61,9 @@ public final class R {
          */
         public static final int linear_layout=0x7f050003;
         public static final int nombres=0x7f05000a;
+        /**  Frame Layout 
+         */
+        public static final int prueba=0x7f05000f;
         /**  Relative Layout 
          */
         public static final int regresar=0x7f050009;

@@ -21,4 +21,7 @@
     <string name="done">Finalizar</string>
     <string name="title_activity_absolute_layout">AbsoluteLayout</string>
 
+    <!-- Frame Layout -->
+    <string name="prueba">prueba</string>
+    
 </resources>
