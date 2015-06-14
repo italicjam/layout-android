@@ -23,5 +23,6 @@
 
     <!-- Frame Layout -->
     <string name="prueba">prueba</string>
-    
+    <string name="title_activity_table_layout">TableLayout</string>
+
 </resources>

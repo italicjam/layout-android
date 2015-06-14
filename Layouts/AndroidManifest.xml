@@ -30,6 +30,10 @@
             android:name="edu.continental.layout.AbsoluteLayout"
             android:label="@string/title_activity_absolute_layout" >
         </activity>
+        <activity
+            android:name="edu.continental.layout.TableLayout"
+            android:label="@string/title_activity_table_layout" >
+        </activity>
     </application>
 
 </manifest>
