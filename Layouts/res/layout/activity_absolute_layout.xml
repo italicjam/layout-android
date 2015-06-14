@@ -1,0 +1,45 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AbsoluteLayout" >
+
+    <Button 
+    	android:id="@+id/backbutton"
+    	android:text="@string/regresar"
+    	android:layout_x="10dp"
+    	android:layout_y="5dp"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content" />
+    
+    <TextView
+    	android:layout_x="10dp"
+    	android:layout_y="110dp"
+    	android:text="@string/nombres"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content" />
+    
+    <EditText
+    	android:layout_x="150dp"
+    	android:layout_y="100dp"
+    	android:inputType="text"
+    	android:width="100dp"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content" />
+    
+    <TextView
+    	android:layout_x="10dp"
+    	android:layout_y="160dp"
+    	android:text="@string/apellidos"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content" />
+    
+    <EditText
+    	android:layout_x="150dp"
+    	android:layout_y="150dp"
+    	android:inputType="text"
+    	android:width="100dp"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content" />
+    
+</AbsoluteLayout>

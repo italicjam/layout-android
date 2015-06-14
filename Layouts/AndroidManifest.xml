@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="edu.continental.layout.RelativeLayout"
+            android:label="@string/title_activity_relative_layout" >
+        </activity>
+        <activity
+            android:name="edu.continental.layout.AbsoluteLayout"
+            android:label="@string/title_activity_absolute_layout" >
+        </activity>
     </application>
 
 </manifest>
