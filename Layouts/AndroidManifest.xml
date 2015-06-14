@@ -34,6 +34,10 @@
             android:name="edu.continental.layout.TableLayout"
             android:label="@string/title_activity_table_layout" >
         </activity>
+        <activity
+            android:name="edu.continental.layout.FrameLayout"
+            android:label="@string/title_activity_frame_layout" >
+        </activity>
     </application>
 
 </manifest>

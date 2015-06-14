@@ -24,5 +24,6 @@
     <!-- Frame Layout -->
     <string name="prueba">prueba</string>
     <string name="title_activity_table_layout">TableLayout</string>
+    <string name="title_activity_frame_layout">FrameLayout</string>
 
 </resources>
